@@ -1,0 +1,31 @@
+body {
+    margin: 0px;
+}
+
+h1 {
+    /* text-decoration: underline; */
+    border-bottom-style: double;
+    border-bottom-width: 10px;
+    padding-left: 1em;
+    margin-top: .25em;
+}
+
+#pic {
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+p {
+    font-family: fantasy;
+    margin-block-start: 2em;
+    margin-block-end: 2em;
+}
+
+.section2 {
+    font-family:monospace;
+}
+
+#teaser {
+    font-weight:bold;
+}
